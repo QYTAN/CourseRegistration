@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: sa47.team11.caps
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: GL62M 7RDX
+Implementation-Vendor-Id: sa47.team11.caps
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/sa47.team11.caps
+Created-By: Maven Integration for Eclipse
+
